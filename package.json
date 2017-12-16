@@ -1,0 +1,29 @@
+{
+  "name": "express-scaffold",
+  "version": "1.0.0",
+  "description": "scaffold to start a new express project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabhio/express-scaffold.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "scaffold",
+    "simple",
+    "project"
+  ],
+  "author": "@rishabhio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishabhio/express-scaffold/issues"
+  },
+  "homepage": "https://github.com/rishabhio/express-scaffold#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
